@@ -12,7 +12,7 @@
     + Password: Phuclk1
    
 * View:
-    ![view](https://flic.kr/p/2og2d2t)
+    
    ![view](https://farm5.staticflickr.com/4684/38589789365_d54beb4fb1_h.jpg)
    ![view](https://farm5.staticflickr.com/4593/39438198102_654b956477_h.jpg)
    ![view](https://farm5.staticflickr.com/4688/38589789175_fcf5c29b5a_h.jpg)
