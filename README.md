@@ -1,4 +1,5 @@
-* Project website nghe nhạc online
+
+# Project website nghe nhạc online
 * Ngôn ngữ sử dụng: PHP 5.6 + Smarty Templates
 
 * Hướng dẫn cài đặt:
